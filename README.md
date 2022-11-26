@@ -44,3 +44,4 @@ Attached PDF can be found here [test_plan_sample.pdf](https://github.com/anas-qa
 ## Contributing
 
 See the [contributing.md](https://github.com/fityanos/awesome-quality-assurance-road-map/blob/master/contributing.md) for details on how to contribute.
+
